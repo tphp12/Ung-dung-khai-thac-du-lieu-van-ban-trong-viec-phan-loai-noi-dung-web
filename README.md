@@ -1,4 +1,5 @@
 # MỞ FILE TextMining.docx ĐỂ XEM TOÀN BỘ KHOÁ LUẬN
+* Vai trò của tôi trong khoá luận này là sử dụng dữ liệu đã được crawl từ thành viên cùng nhóm để thực hiện việc xây dựng mô hình, vì vậy sẽ không có chi tiết bước crawling data.
 # ỨNG DỤNG KHAI THÁC DỮ LIỆU VĂN BẢN TRONG VIỆC PHÂN LOẠI NỘI DUNG WEB
 ## Bố cục của khoá luận:
 Nội dung của luận văn tốt nghiệp này được trình bày thành 6 chương.  Trong đó chương đầu giới thiệu đề tài, các khái niệm tổng quan. 2 chương tiếp theo trình bày cơ sở lý thuyết và các khái niệm liên quan đến đề tài. Chương kế tiếp xây dựng ứng dụng phân loại nội dung web sử dụng các kỹ thuật, phương pháp học máy, trình bày kết quả và đánh giá. Kế đến là kết luận và cuối cùng là chương tài liệu tham khảo. 
