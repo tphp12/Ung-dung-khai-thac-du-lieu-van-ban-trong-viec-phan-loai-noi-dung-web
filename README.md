@@ -8,4 +8,4 @@ Nội dung của luận văn tốt nghiệp này được trình bày thành 6 c
 - Chương 3: Các khái niệm cơ bản về trình thu thập web (web crawler), các chiến lược thu thập, trình bóc tách,… Từ những khái niệm đưa ra cái nhìn chung về Web Crawling.
 - Chương 4: Xây dựng ứng dụng, tiến vào hiện thực chương trình, có được thông tin đầu vào, tiến hành phân tích dữ liệu theo thuật toán, kết quả kiểm thử chương trình.
 - Kết Luận: Nhìn lại kết quả đã làm được, đưa ra những đánh giá và hướng phát triển. 
-Ngoài ra báo cáo còn có các phần tóm tắt, phụ lục, tài liệu tham khảo và các phần còn lại khác.![image](https://github.com/user-attachments/assets/626bbadd-731e-4da9-965c-df6e9f589294)
+Ngoài ra báo cáo còn có các phần tóm tắt, phụ lục, tài liệu tham khảo và các phần còn lại khác.
